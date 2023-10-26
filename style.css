@@ -1,0 +1,32 @@
+#nav {
+   padding-top: 30px;
+   padding-bottom: 30px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(0, 157, 255);
+}
+#option{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: large;
+}
+nav button{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: large;
+}
+#text{
+    
+    width: 50%;
+    
+}
+#body{
+    display: flex;
+}
+#lower{
+    justify-content: space-around;
+    display: flex;
+}
+#Responce{
+    margin-left: 50px;
+}
